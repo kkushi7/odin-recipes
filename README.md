@@ -1,1 +1,2 @@
 # odin-recipes
+"The project is about creating a basic website that holds recipes. The main goal of this project is to strengthen my foundation of HTML basics which I will fine tune throughout this course."
